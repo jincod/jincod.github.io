@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+	{% include head.html %}
+	{{ page.header }}
+	<body class="{{ page.customClass }}">
+		{{content}}
+		{{ page.footer }}
+		{% include footer.html %}
+	</body>
+</html>
