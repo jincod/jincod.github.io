@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CV
+customClass: markdown-body
 header: |
   <link rel="stylesheet" href="https://npmcdn.com/github-markdown-css/github-markdown.css">
 ---
