@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 	{% include head.html %}
 	{{ page.header }}
-	<body class="{{ page.customClass }}">
-		{{content}}
+	<body>
+		<div class="{{ page.customClass }}">
+			{{content}}
+		</div>
 		{{ page.footer }}
 		{% include footer.html %}
 	</body>

@@ -8,11 +8,12 @@ body {
 }
 
 .main-page {
-	background: #f1f2ec;
+	height: 100%;
 }
 
 .info {
 	height:100%;
+	background: #f1f2ec;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -69,7 +70,7 @@ body {
 	min-width: 200px;
 	max-width: 980px;
 	border: 1px solid #ddd;
-	margin: 0 auto;
+	margin: 10px auto;
 	padding: 45px;
 }
 
