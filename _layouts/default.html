@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 	{% include head.html %}
-	{{ page.header }}
+	{{ layout.header}}
+	{{ page.header}}
 	<body>
-		<div class="{{ page.customClass }}">
+		<div class="{{ layout.customClass }} {{ page.customClass }}">
 			{{content}}
 		</div>
 		{{ page.footer }}
