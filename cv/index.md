@@ -1,9 +1,7 @@
 ---
-layout: markdown
-title: CV
+layout: page
+title: Vadim Abdrashitov
 ---
-
-# Vadim Abdrashitov
 
 [vadim.abdrashitov@gmail.com](mailto:vadim.abdrashitov@gmail.com)
 

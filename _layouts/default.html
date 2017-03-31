@@ -1,12 +1,16 @@
 <!DOCTYPE html>
-	{% include head.html %}
-	{{ layout.header}}
-	{{ page.header}}
-	<body>
-		<div class="{{ layout.customClass }} {{ page.customClass }}">
-			{{content}}
-		</div>
-		{{ page.footer }}
-		{% include footer.html %}
-	</body>
+<html lang="en">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+  </body>
 </html>
