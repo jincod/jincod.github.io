@@ -1,7 +1,6 @@
 ---
 title: The latest update of my github projects
 tags: [aspnetcore, heroku, dotnetcore, buildpacks, cqrs]
-redirect_from: /post/123456789
 ---
 
 ## Jincod.CQRS
