@@ -20,3 +20,4 @@ github:           https://github.com/jincod
 
 gems:
   - jekyll-gist
+  - jekyll-redirect-from
