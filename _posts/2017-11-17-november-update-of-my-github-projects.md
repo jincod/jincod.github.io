@@ -10,7 +10,7 @@ tags: [aspnetcore, heroku, dotnetcore, buildpacks, cqrs, refit]
 - Removed `dotnet restore` step
 - Extremely optimized slag size (`DOTNET_SKIP_FIRST_TIME_EXPERIENCE:1`)
 - Updated .NET Core SDK 2.0.3
-- Added support `PROJECT_FILE` and `PROJECT_NAME` environment variables (#23)
+- Added support `PROJECT_FILE` and `PROJECT_NAME` environment variables ([#23](https://github.com/jincod/dotnetcore-buildpack/pull/23))
 
 ## ASP.NET Core Demo App
 
