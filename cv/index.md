@@ -10,9 +10,9 @@ title: Vadim Abdrashitov
 
 More than 10 years of experience in web development. Comfortable with both back-end and front-end code, mainly .NET platform and JavaScript.
 
-Have experience in maintaining continuous integration and automation infrastructure, very familiar with the .NET Core tooling, Jenkins CI system and Docker ([docker-jenkins-slave](https://github.com/jincod/docker-jenkins-slave)).
+Have experience in maintaining continuous integration and automation infrastructure, works with the .NET Core tooling, Jenkins CI system and Docker ([docker-jenkins-slave](https://github.com/jincod/docker-jenkins-slave)).
 
-Did an OSS project to support deployment of .NET Core application at Heroku ([dotnetcore-buildpack](https://github.com/jincod/dotnetcore-buildpack)).
+Maintain an OSS project to support deployment of .NET Core application at Heroku ([dotnetcore-buildpack](https://github.com/jincod/dotnetcore-buildpack)).
 
 ## Experience
 
@@ -42,14 +42,12 @@ Processing metadata files uploaded to Amazon S3 and uploading results to 3rd par
 **Internal infrastructure modernisation**
 
 - Updated Continuous Integration infrastructure
-
-	- Migrated Jenkins from standalone instances installation to distributed
-	- Introduced cross-platform Jenkins build agents on Windows and Linux [docker-jenkins-slave](https://github.com/jincod/docker-jenkins-slave)
-	- Replaced hardcoded build steps on `Jenkinsfile`
-
+- Migrated Jenkins from standalone instances installation to distributed
+- Introduced cross-platform Jenkins build agents on Windows and Linux [docker-jenkins-slave](https://github.com/jincod/docker-jenkins-slave)
+- Replaced hardcoded build steps with `Jenkinsfile`
 - Introduced SonarQube code analyzing to CI process
 - Introduced secret management system based on Hashicorp Vault
-- Introduced internal Slack bot and AWS Lambda scheduled jobs to simplify and automate routine actions
+- Introduced internal Slack bot to simplify and automate routine actions
 
 ### Neteagles
 *January 2014 - October 2015*
@@ -63,15 +61,7 @@ Processing metadata files uploaded to Amazon S3 and uploading results to 3rd par
 
 **Building Materials Web-Market**
 
-- Development of client side apps (Node.js, Backbone.js, Twitter Bootstrap)
-
-	- *Product Catalog*: Isomorphic JavaScript application on Node.js, Backbone.js and mustache.js
-
-	- *Auctions application with realtime notifications*: Node.js, Backbone.js and Sock.js.
-
-	- *Monitoring application for technical and business indicators*: Node.js, Backbone.js and Sock.js
-
-	- *Content management application*: SPA on Backbone.js and Twitter Bootstrap
+- Development of client side apps (Node.js, Backbone.js, Sock.js, Twitter Bootstrap)
 - Development of business-logic (C#, [CQRS](https://github.com/jincod/Jincod.CQRS), Event Sourcing)
 - Development of API (ASP.NET MVC, RestSharp)
 - Continuous Deployment (Teamcity, Powershell, MsBuild, WebDeploy)
