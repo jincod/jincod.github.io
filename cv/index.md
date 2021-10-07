@@ -7,7 +7,7 @@ title: Vadim Abdrashitov
 
 More than 10 years of experience in web development. Comfortable with both back-end and front-end code, mainly .NET platform and JavaScript.
 
-Have experience in maintaining continuous integration and automation infrastructure, works with the .NET Core tooling, Jenkins CI system and Docker ([docker-jenkins-slave](https://github.com/jincod/docker-jenkins-slave)).
+Have experience in maintaining continuous integration and automation infrastructure, works with the .NET Core tooling, Jenkins CI system and Docker ([jenkins-docker-agent](https://github.com/jincod/jenkins-docker-agent)).
 
 Maintain an OSS project to support deployment of .NET Core application at Heroku ([dotnetcore-buildpack](https://github.com/jincod/dotnetcore-buildpack)).
 
@@ -40,7 +40,7 @@ Processing metadata files uploaded to Amazon S3 and uploading results to 3rd par
 
 - Updated Continuous Integration infrastructure
 - Migrated Jenkins from standalone instances installation to distributed
-- Introduced cross-platform Jenkins build agents on Windows and Linux [docker-jenkins-slave](https://github.com/jincod/docker-jenkins-slave)
+- Introduced cross-platform Jenkins build agents on Windows and Linux [jenkins-docker-agent](https://github.com/jincod/jenkins-docker-agent)
 - Replaced hardcoded build steps with `Jenkinsfile`
 - Introduced SonarQube code analyzing to CI process
 - Introduced secret management system based on Hashicorp Vault
