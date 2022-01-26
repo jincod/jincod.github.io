@@ -13,8 +13,15 @@ Maintain an OSS project to support deployment of .NET Core application at Heroku
 
 ## Experience
 
+### Support Partners
+*January 2022 - present*
+
+**AI based indexing and searching**
+
+4.5PB videos and documents stored at Azure Blobs. Azure Functions, Azure Cognitive Search, Video Indexer, Azure Media Services, Azure Bot, MS Teams
+
 ### Graph
-*October 2015 - present*
+*October 2015 - December 2021*
 
 **Video production project**
 
@@ -97,5 +104,5 @@ Admin, search and profile modules development
 
 ## Education
 
-**Specialist degree in computer science and information systems**  
-South Ural State University, Chelyabinsk, Russia, 2007-2012  
+**Specialist degree in computer science and information systems**
+South Ural State University, Chelyabinsk, Russia, 2007-2012
